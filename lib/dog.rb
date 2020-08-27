@@ -25,7 +25,7 @@ end
 
   def save(name)
     @@all << name
-    binding.pry
+
   end
 
 end

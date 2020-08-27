@@ -24,7 +24,7 @@ def self.print_all
 end
 
   def save
-
+    @@all << @name 
   end
 
 end

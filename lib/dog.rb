@@ -23,8 +23,8 @@ def self.print_all
   end
 end
 
-  def save(name)
-    @@all << name
+  def save
+    @@all << name 
 
   end
 

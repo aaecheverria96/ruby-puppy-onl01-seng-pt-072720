@@ -27,5 +27,6 @@ end
   @@all  << self
 
   end
-save
+
 end
+save 

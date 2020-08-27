@@ -23,8 +23,8 @@ def self.print_all
   end
 end
 
-  def save
-    @@all << @name = Pluto
+  def save(name)
+    @@all << name  
   end
 
 end
